@@ -5,4 +5,4 @@ class Solution {
 
         return new double[]{kelvin,fahrenheit};
     }
-}
+} 
